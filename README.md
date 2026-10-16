@@ -4,7 +4,7 @@ Actividad de la Semana 8 — Especialización en Inteligencia Artificial (Univer
 Diagnóstico de calidad de 5 imágenes de un mismo objeto capturadas en condiciones distintas y tratamiento
 justificado de la imagen problemática (baja iluminación).
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jahirravila/tratamiento-imagen-opencv/blob/main/notebooks/tratamiento_imagen.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1plRW2NRQ-C6CmlRpb8NcssRJVmaTBRVx?usp=sharing)
 
 ## Estructura
 | Ruta | Contenido |
